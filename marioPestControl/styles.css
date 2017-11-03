@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://i.ytimg.com/vi/kESR9mnroQ8/maxresdefault.jpg);
+    background-image: cover;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    color: white;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+.goomba{
+    height: 80px;
+    left: 30%;
+}
+
+.bomb{
+    height: 80px;
+}
+
+.cheep{
+    height: 80px;
+}
